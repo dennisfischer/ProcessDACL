@@ -1,0 +1,1 @@
+A test project to make usage of SecurityDescriptors. This is a lot easier / simpler to do inside a seperate project. The results should then be deployed to chrome.
